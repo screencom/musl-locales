@@ -57,7 +57,7 @@ msgid "Sat"
 msgstr "za"
 
 msgid "Sunday"
-msgstr "zo"
+msgstr "Zondag"
 
 msgid "Monday"
 msgstr "Maandag"
